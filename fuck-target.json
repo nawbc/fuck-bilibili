@@ -1,0 +1,15 @@
+// action
+// reply  刷单个评论
+[
+  {
+    "action": "reply",
+    // 用户的uid
+    "uid": "60101699",
+    "message": "对",
+    "withUUID": true,
+    // 设置根评论rpid，oid， 视为刷单个评论
+    "root": "114640038512",
+    "parent": "114640038512",
+    "oid": "341882802"
+  }
+]
